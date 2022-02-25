@@ -2,6 +2,7 @@
   background-color: darkblue;
   width: 100vw;
   height: 100vh;
+  padding-top: 90px;
 }
 
 .wrapper{
@@ -36,4 +37,8 @@ button{
   font-size: 50px;
   margin: 10px;
   border-radius: 30px;
+}
+
+.error{
+  color: red;
 }
